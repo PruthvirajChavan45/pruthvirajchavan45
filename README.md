@@ -1,7 +1,8 @@
-<img width="1323" height="834" alt="image" src="https://github.com/user-attachments/assets/6fac1fba-2df1-4e92-ad42-7e3c3d7257fe" /># Hey there 👋, Welcome to my GitHub Profile
+<h1 id="hey-there-welcome-to-my-github-profile">Hey there 👋, Welcome to my GitHub Profile</h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=22EBF7&size=25&center=false&lines=Hey!+I'm+Pruthviraj+Chavan;Tech+Enthusiast...;Problem+Solver...;Lifelong+Learner...;Problem+Solver...;Lifelong+Learner..." alt="Typing SVG">
 
-<p>- <i>A passionate final-year engineering student & aspiring Data Scientist. Proficient in Python, C++, SQL, Java and problem solving. Currently building projects in data analysis, machine learning and automation. I'm always exploring new technologies — from backend servers (Nginx/Tomcat) to AI agents and automation workflows.</i></p>
+<p>- <i> Aspiring Data Scientist & Generative AI Engineer with hands-on experience in Python, Data Analysis, Statistics, SQL, and Machine Learning. Actively developing AI-driven projects and expanding expertise in Generative AI.
+</i></p>
 
 ---
 
@@ -9,9 +10,10 @@
 
 ### Languages
 <p>
-<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="Python">&nbsp;
-<img src="https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange" alt="Java">&nbsp;
-<img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">&nbsp;
 <!-- <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">&nbsp;
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"> -->
 </p>
