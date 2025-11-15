@@ -77,8 +77,8 @@
 
 ## 🌍 Connect with Me
 
-📌 **GitHub:** [github.com/PruthvirajChavan45](https://github.com/PruthvirajChavan45)  
 📩 **Email:** <a href="mailto:chavanpruthviraj4545@gmail.com">chavanpruthviraj4545@gmail.com</a>  
+📌 **GitHub:** [github.com/PruthvirajChavan45](https://github.com/PruthvirajChavan45)  
 💼 **LinkedIn:** [linkedin.com/in/pruthvirajchavan45](https://linkedin.com/in/pruthvirajchavan45)
 
 ---
