@@ -1,6 +1,5 @@
 <h1 id="hey-there-welcome-to-my-github-profile">Hey there 👋, Welcome to my GitHub Profile</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=22EBF7&size=25&center=false&lines=Hey!+I'm+Pruthviraj+Chavan;Tech+Enthusiast...;Problem+Solver...;Lifelong+Learner...;Problem+Solver...;Lifelong+Learner..." alt="Typing SVG">
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=22EBF7&size=25&center=false&lines=Hey!+I'm+Pruthviraj+Chavan;Aspiring+Data+Scientist;Generative+AI+Engineer+in+Progress;Machine+Learning+Explorer;Passionate+Problem+Solver;Consistent+Learner+%26+Builder" alt="Typing SVG">
 <p>- <i> Aspiring Data Scientist & Generative AI Engineer with hands-on experience in Python, Data Analysis, Statistics, SQL, and Machine Learning. Actively developing AI-driven projects and expanding expertise in Generative AI.
 </i></p>
 
