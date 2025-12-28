@@ -46,11 +46,12 @@
 
 ### Tools & Other
 <p>
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">&nbsp;
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">&nbsp;
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook">&nbsp;
+ <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">&nbsp;
+ <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white">&nbsp;
+ <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">&nbsp;
+ <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">&nbsp;
+ <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook">&nbsp;
+ <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black" alt="Google Colab">&nbsp;
 <!-- <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ">&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">&nbsp;
 <img src="https://img.shields.io/badge/n8n-1A1A1A?style=flat&logo=n8n&logoColor=white" alt="n8n"> -->
