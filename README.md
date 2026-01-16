@@ -21,11 +21,12 @@
 <p>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">&nbsp;
-<!-- <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=plotly&logoColor=black">&nbsp;
-<img src="https://img.shields.io/badge/Seaborn-3182bd?style=flat">&nbsp;
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Seaborn-3182BD?style=flat&logo=python&logoColor=white">&nbsp;
+<!-- <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"> -->
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+  -->
 </p>
 
 
