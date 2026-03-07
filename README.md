@@ -7,6 +7,9 @@
 
 ## 🛠️ Skills
 
+### Data Analysis Tools
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/>
+
 ### Languages
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">&nbsp;
